@@ -29,5 +29,5 @@
 
 ---
 ##### 💻 At <a href="https://www.datacamp.com" target="_blank">DataCamp</a>.
-##### 🧑‍🏫 **Instructor**: Sayak Paul
+##### 🧑‍🏫 \_Instructor\_: Sayak Paul
 ##### 📖 **Career Track**: Data Scientist with Python
